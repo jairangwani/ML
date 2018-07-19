@@ -1,0 +1,28 @@
+Good Video 
+https://www.youtube.com/watch?v=HVsySz-h9r4&t=1281s
+
+- to ignore files 
+git add .gitignore 
+
+- to view changes 
+git status 
+
+- to add everything to staging area
+git add -A
+
+- remove file from staging 
+git reset xxx.xx
+
+- remove everything from staging
+git reset 
+
+- to check log 
+git log 
+
+- to commit file changes 
+git commit -m "Info"
+
+- to download a new repo 
+git clone <url> <where>  ( user . for current directory ) 
+
+
